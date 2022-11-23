@@ -19,18 +19,19 @@ X = 155 # screen windth (Different for everyone)
 y = 335 # screen height (Different for everyone)
 END_TIME = "8:46:59"
 
-robots_req = OnLineRobot(USER_NAME, PASSWORD, LINK_IRAN_MARKET)
-done = False
-while not done:
-	robots_req.Robot()
-	time.sleep(2)
-	start = True
-	while start:
-		start = robots_req.Send_Click_Requests(X, Y)
-		
-	if currentTimeInNewYork==END_TIME:
-    		done = True
+def main():
+	robots_req = OnLineRobot(USER_NAME, PASSWORD, LINK_IRAN_MARKET)
+	done = False
+	while not done:
+		robots_req.Robot()
+		time.sleep(2)
+		start = True
+		while start:
+			start = robots_req.Send_Click_Requests(X, Y)
 
+		if currentTimeInNewYork==END_TIME:
+			done = True
 
-
-
+if __name__ == "__main__":
+	main()
+	
