@@ -26,7 +26,7 @@ while not done:
 	time.sleep(2)
 	start = True
 	while start:
-    	start = robots_req.Send_Click_Requests(X, Y)
+		start = robots_req.Send_Click_Requests(X, Y)
 
     if currentTimeInNewYork==END_TIME:
     	done = True
