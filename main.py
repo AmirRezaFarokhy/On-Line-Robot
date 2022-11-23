@@ -27,9 +27,9 @@ while not done:
 	start = True
 	while start:
 		start = robots_req.Send_Click_Requests(X, Y)
-
-    if currentTimeInNewYork==END_TIME:
-    	done = True
+		
+	if currentTimeInNewYork==END_TIME:
+    		done = True
 
 
 
