@@ -1,8 +1,21 @@
+<a href="https://pypi.org/project/selenium/">
+    <img src="https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat" alt="Documentation">
+    
 # On-Line-Robot
 Creating an online robot to send buying or selling requests to avoid falling into long buying and selling queues.
 
 # Note
 It should be noted that this robot alone does not reduce the queue, and it must have a high-speed internet to send requests quickly.
+
+## guidance
+To use the Selenium library, after running the pip command, you need to download the web page for Selenium and put it in your code folder.
+Links 
+```
+Chrome: https://chromedriver.chromium.org/downloads
+Edge: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+Firefox: https://github.com/mozilla/geckodriver/releases
+Safari: https://webkit.org/blog/6900/webdriver-support-in-safari-10/
+```
 
 ### Requirements
 Running `RSI-Divergence-python` requires:
