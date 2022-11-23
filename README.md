@@ -15,7 +15,7 @@ Safari: https://webkit.org/blog/6900/webdriver-support-in-safari-10/
 ```
 
 ### Requirements
-Running `RSI-Divergence-python` requires:
+Running `On-Line-Robot` requires:
 * Python 3.8 (tested under Python 3.10.4)
 * bs4.BeautifulSoup 4.11.1
 * selenium 4.6.0
