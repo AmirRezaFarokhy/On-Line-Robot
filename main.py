@@ -19,8 +19,9 @@ X = 155 # screen windth (Different for everyone)
 y = 335 # screen height (Different for everyone)
 END_TIME = "8:46:59"
 
+robots_req = OnLineRobot(USER_NAME, PASSWORD, LINK_IRAN_MARKET)
+
 def main():
-	robots_req = OnLineRobot(USER_NAME, PASSWORD, LINK_IRAN_MARKET)
 	done = False
 	while not done:
 		robots_req.Robot()
