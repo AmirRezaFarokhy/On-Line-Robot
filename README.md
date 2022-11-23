@@ -1,5 +1,5 @@
 <a href="https://pypi.org/project/selenium/">
-    <img src=https://pypi.org/ alt="selenium">
+    <img src="https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat" alt="selenium">
     
 # On-Line-Robot
 Creating an online robot to send buying or selling requests to avoid falling into long buying and selling queues.
