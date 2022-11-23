@@ -6,13 +6,12 @@ It should be noted that this robot alone does not reduce the queue, and it must 
 
 ## guidance
 To use the Selenium library, after running the pip command, you need to download the web page for Selenium and put it in your code folder.
-Links 
-```
+Links:) 
 Chrome: https://chromedriver.chromium.org/downloads
 Edge: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 Firefox: https://github.com/mozilla/geckodriver/releases
 Safari: https://webkit.org/blog/6900/webdriver-support-in-safari-10/
-```
+
 
 ### Requirements
 Running `On-Line-Robot` requires:
