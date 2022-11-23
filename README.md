@@ -1,6 +1,3 @@
-<a href="https://pypi.org/project/hyperlink/">
-    <img src="https://pypi.org/project/selenium/" alt="Python Version Compatibility">
-    
 # On-Line-Robot
 Creating an online robot to send buying or selling requests to avoid falling into long buying and selling queues.
 
