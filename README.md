@@ -25,7 +25,7 @@ Running `On-Line-Robot` requires:
 ### Installation
 In order to test the script please run the following commands:
 ```sh
-# install numpy
+# install selenium
 pip install selenium
 ```
 
