@@ -4,6 +4,7 @@ Creating an online robot to send buying or selling requests to avoid falling int
 # Note
 It should be noted that this robot alone does not reduce the queue, and it must have a high-speed internet to send requests quickly.
 
+
 ## guidance
 To use the Selenium library, after running the pip command, you need to download the web page for Selenium and put it in your code folder.
 Links:) 
