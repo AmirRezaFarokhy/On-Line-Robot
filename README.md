@@ -8,6 +8,7 @@ It should be noted that this robot alone does not reduce the queue, and it must 
 To use the Selenium library, after running the pip command, you need to download the web page for Selenium and put it in your code folder.
 Links:) 
 
+
 Chrome: https://chromedriver.chromium.org/downloads
 
 Edge: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
